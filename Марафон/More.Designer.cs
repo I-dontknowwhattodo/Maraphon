@@ -136,8 +136,9 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(243, 22);
             this.label2.TabIndex = 3;
-            this.label2.Text = "MARAPHON SKILLS 2050";
+            this.label2.Text = "MARAPHON SKILLS 2020";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.label2.Click += new System.EventHandler(this.Label2_Click);
             // 
             // time
             // 

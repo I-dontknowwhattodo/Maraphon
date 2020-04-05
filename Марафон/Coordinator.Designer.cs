@@ -77,7 +77,8 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(116, 15);
             this.label1.TabIndex = 3;
-            this.label1.Text = "MARAPHON SKILLS 2050";
+            this.label1.Text = "MARAPHON SKILLS 2020";
+            this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
             // label2
             // 
@@ -97,6 +98,7 @@
             this.time.Size = new System.Drawing.Size(239, 13);
             this.time.TabIndex = 5;
             this.time.Text = "0 дней 0 часов и 0 минут до старта марафона";
+            this.time.Click += new System.EventHandler(this.Time_Click);
             // 
             // pictureBox1
             // 

@@ -61,7 +61,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(137, 14);
             this.label1.TabIndex = 1;
-            this.label1.Text = "MARAPHON SKILLS 2050";
+            this.label1.Text = "MARAPHON SKILLS 2020";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
@@ -74,7 +74,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(123, 26);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Москва, Россия\r\nвторник 4 января 2050";
+            this.label2.Text = "Москва, Россия\r\nвторник 4 января 2020";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // button2

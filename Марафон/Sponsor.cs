@@ -36,5 +36,10 @@ namespace Марафон
         {
 
         }
+
+        private void Time_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
